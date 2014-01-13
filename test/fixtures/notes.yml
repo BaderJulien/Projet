@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Date: 2014-01-13
+  Categorie: 
+  Duree: 
+  Difficulte: 
+  Titre: MyString
+  Texte: MyText
+  Commentaire: MyText
+
+two:
+  Date: 2014-01-13
+  Categorie: 
+  Duree: 
+  Difficulte: 
+  Titre: MyString
+  Texte: MyText
+  Commentaire: MyText
